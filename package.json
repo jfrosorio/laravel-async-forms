@@ -1,0 +1,22 @@
+{
+  "name": "laravel-async-forms",
+  "version": "0.0.0",
+  "description": "A jQuery plugin for submitting forms asynchronously in Laravel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfrosorio/laravel-async-forms.git"
+  },
+  "author": "José Osório <jfrosorio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfrosorio/laravel-async-forms/issues"
+  },
+  "homepage": "https://github.com/jfrosorio/laravel-async-forms#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
