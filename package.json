@@ -1,6 +1,6 @@
 {
   "name": "laravel-async-forms",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A jQuery plugin for submitting forms asynchronously in Laravel.",
   "main": "index.js",
   "scripts": {
